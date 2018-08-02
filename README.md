@@ -1,0 +1,2 @@
+# Multimedia-Web-Application-Database-using-mysql
+Multimedia web application is an online portal where a user have a unique id, username and password and for security reasons hash password also must be saved can upload media in which divides into images, videos, music in which each has a unique video_id, data_name for recognition which is given by the user and has address pointing to its location in his database and view which specifies whether certain media should be shown or hidden. Each type of media has its own section. Where he can upload images, videos, text and audio.
